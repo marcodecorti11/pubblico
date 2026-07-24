@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "quartz-themes": {
+      "source": {
+        "name": "quartz-themes",
+        "repo": "github:saberzero1/quartz-themes",
+        "subdir": "plugin"
+      },
+      "resolved": "https://github.com/saberzero1/quartz-themes.git",
+      "commit": "aa6691d6e703d3bff5a7268d378b3cf4b641ac3b",
+      "subdir": "plugin",
+      "installedAt": "2026-07-24T11:52:12.045Z"
+    }
+  }
+}
